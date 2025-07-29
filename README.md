@@ -144,7 +144,3 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 **Raihan Sarker**
 🔗 [LinkedIn](https://www.linkedin.com/in/raihan82/) | 📫 Email: [raihansarker820@gmail.com](mailto:raihansarker820@gmail.com)
-
----
-
-Let me know if you'd like to auto-generate the license file, add GIF previews of the web app, or format this README for deployment on GitHub Pages.
