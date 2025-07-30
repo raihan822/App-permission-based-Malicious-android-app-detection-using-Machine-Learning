@@ -30,15 +30,17 @@ With the rapid proliferation of smartphones and Android’s dominant market shar
 ## 🗂️ Project Structure
 
 ```
-├── app/                         # Flask web app directory
-│   ├── templates/               # HTML files
-│   ├── static/                  # CSS, JS files
-│   ├── model/                   # Trained ML model files
-│   └── app.py                   # Flask main app
-├── data/                        # Dataset and processed features
-├── feature_selection/          # Scripts for feature reduction
-├── models/                     # ML training and evaluation scripts
-├── requirements.txt            # Python dependencies
+├── WebApp/                          # Flask web app directory
+│   ├── requirements.txt             # Python dependencies
+│   ├── app
+│       ├── templates/               # HTML files
+│       ├── static/                  # CSS, JS files
+│       ├── model.pkl                # Trained ML model files
+│       └── app.py                   # Flask main app
+├── Dataset/                    # Dataset and processed features
+├── (r)CSE445_Project.ipynb     # ML training and evaluation scripts
+├── model.pkl                   # Trained ML model files
+├── for manual Testing.xlsx     # Separate test set for manual input and test case
 └── README.md                   # This file
 ```
 
