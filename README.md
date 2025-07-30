@@ -30,9 +30,9 @@ With the rapid proliferation of smartphones and Android’s dominant market shar
 ## 🗂️ Project Structure
 
 ```
-├── WebApp/                          # Flask web app directory
+├── WebApp/                     # Flask web app directory
 │   ├── requirements.txt             # Python dependencies
-│   ├── app
+│   ├── app/
 │       ├── templates/               # HTML files
 │       ├── static/                  # CSS, JS files
 │       ├── model.pkl                # Trained ML model files
